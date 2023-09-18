@@ -7,3 +7,4 @@
 127.0.0.1 latoken.com
 127.0.0.1 metanews.com
 127.0.0.1 big.one
+127.0.0.1 pannagechapin.uno
