@@ -1,0 +1,9 @@
+!
+! Title: AdGuard Filter by Haleeth Umar
+! Homepage: https://haleeth.com
+! Last modified: 2023-09-18
+!
+127.0.0.1 bcgame.top
+127.0.0.1 latoken.com
+127.0.0.1 metanews.com
+127.0.0.1 big.one
